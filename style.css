@@ -1,3 +1,35 @@
-body {
+h2 {
+  color: #B02E0C;
+  font-size: 40px;
+  background-color: #A1CDF1;
+  border: solid 9px #69353F;
+}
 
+body {
+  background-color: #495F41;
+}
+
+ul {
+  list-style-type: none;
+  width: 100%;
+  overflow: hidden;
+  background-color: #ACFCD9;
+  font-size: 25px;
+}
+
+li a {
+  display: block;
+  float: left;
+  padding: 20px 156px;
+  font-size: 30px;
+}
+
+li a:hover {
+  background-color: #FC6471;
+  color: black;
+}
+
+p {
+  color: #001B2E;
+  font-size: 33px;
 }
